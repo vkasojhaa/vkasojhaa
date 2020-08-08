@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vikas, I am an Artificial Intelligence Engineer currently working in India. I am passionate about solving complex Computer Vision and Machine Learning problems. In my spare time you will probably find me playing chess or watching some TV series.
+My name is Vikas, I am an Artificial Intelligence Engineer currently working in India. I am passionate about solving interesting Computer Vision and Machine Learning problems. In my spare time you will probably find me playing chess or watching some TV series.
 
 <i>You can find me here:</i>
 <p>
