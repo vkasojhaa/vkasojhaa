@@ -2,7 +2,7 @@
 
 My name is Vikas, I am an Artificial Intelligence Engineer currently working in India. I am passionate about solving interesting Computer Vision and Machine Learning problems. In my spare time you will probably find me playing chess or watching some TV series.
 
-I'd be happy to collaborate on any relevant idea, reseaech or projects.
+I'd be happy to collaborate on any relevant idea, research or projects.
 
 <i>You can find me at:</i>
 <p>
