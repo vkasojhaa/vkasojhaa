@@ -2,7 +2,7 @@
 
 ### Hi there 👋🏻
 
-I'm an AI Engineer currently working in India. I am passionate about solving interesting Computer Vision and Machine Learning problems. In my spare time you will probably find me playing chess, reading astrophysics or watching some TV series.
+I'm a Data Scientist working at CeADAR (Centre for Applied Data Analytics) Ireland. I am passionate about solving interesting Computer Vision and Machine Learning problems. In my spare time you will probably find me playing chess, reading astrophysics or watching some TV series.
 
 Feel free to reach out if you have any interesting ideas or projects. I'd be happy to collaborate 😀
 
