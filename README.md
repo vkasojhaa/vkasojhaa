@@ -2,7 +2,7 @@
 
 ### Hi there 👋🏻
 
-I'm a Data Scientist working in Dublin. I'm like solving interesting Computer Vision and Machine Learning problems. <br>
+I'm a Data Scientist working in Dublin. I like to work on interesting Computer Vision and Machine Learning problems. <br>
 In my spare time you will probably find me playing chess, reading astrophysics or watching some series.
 
 Feel free to reach out if you have any interesting ideas to collaborate 😀
