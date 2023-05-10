@@ -2,10 +2,7 @@
 
 ### Hi there 👋🏻
 
-I'm a Data Scientist working in Dublin :ireland: I enjoy working on problems in the field of AI.<br>
-In my spare time you will probably find me playing chess, reading astrophysics or watching some series.
-
-Feel free to reach out if you have any interesting ideas to collaborate 😀
+Dublin 🇮🇪 based Data Scientist 🤖 <br> AI problem-solver by day, chess player ♟️ and astrophysics reader 🚀 by night. <br> Always looking for interesting collab ideas - let's make some data magic! ✨
 
 <a href="https://www.linkedin.com/in/vikasojha7" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=29, width=100 /></a> 
 </p>
