@@ -8,7 +8,8 @@ Whether you need help building predictive models, uncovering hidden patterns, or
 
 And if you're working on an interesting project that could benefit from my expertise, I'm all ears! let's make some data magic! ✨
 
-<a href="https://www.linkedin.com/in/vikasojha7" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=29, width=100 /></a> 
+<a href="https://www.linkedin.com/in/vikasojha7" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=29, width=100 /></a> &nbsp;&nbsp;&nbsp; <a href="topmate.io/vikas_ojha" target="_blank"><img alt="Topmate" src="https://topmate.io/_next/image?url=https%3A%2F%2Ftopmate-staging.s3.ap-south-1.amazonaws.com%2Fudpg1suHjRq3SU9U4yKFZ1.png&w=640&q=75" height=29, width=29/></a> 
+
 
 If you're a chess enthusiast looking to improve your game, I offer personalized lessons! ♟️
 
